@@ -1,0 +1,10 @@
+# --- biological count ---
+cell = [cell] = _ = cells
+
+# --- carrier/container-like units ---
+well = [well] = _ = wells
+dish = [dish] = _ = dishes
+flask = [flask] = _ = flasks
+slide = [slide] = _ = slides
+scaffold = [scaffold] = _ = scaffolds
+patch = [patch] = _ = patches

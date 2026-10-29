@@ -1,0 +1,1408 @@
+%-
+(2 of 8)
+(2 of 9)
+(3 of 8)
+(5 of 12)
+(5 of 8)
+(5 of 9)
+(6 of 12)
+(7 of 8)
+(7 of 9)
+(8 of 12)
+(c) Binding energy trend in related adsorbates:
+(e))
+* CO desorption hysteresis and possible relation to CO formation
+* S Supporting Information
+* sı Supporting Information
+*C-CO pathway
+*CO current wave
+*COH-CHO pathway
+/ 20
+0.78ML
+1 Ex situ characterization of as deposited and annealed
+1 Materials
+1-Introduction
+1.Introduction
+11NTRODUCTION
+19,35
+2
+2(a-b))
+2-
+2-). [(b)-(d)]
+2-Experimental
+2.1.Catalyst preparation
+2.2.Physical characterization
+2.3
+2.3.Electrochemical characterization
+2.5
+2.6
+20
+3
+3.1.Structure and composition of the Cu-GNFs
+3.2.1
+3.2.Electrochemical characterization of the catalysts
+3.3
+3.3.Effect of supporting electrolyte nature and its water content
+3.4.Effect of the electrode material
+32
+4
+4-Conclusion
+42,43
+6
+972
+A C C E P T E D
+A C C E P T E D M
+A C C E P T E D M A N U S C R I P T
+A. CO 2 reduction without pulsed bias
+A. Copper oxides
+A. Electrochemical measurements
+Accepted Manuscript
+ACCEPTED MANUSCRIPT
+Acetate production from bicarbonate reduction catalyzed by mixed bacterial culture
+Acetate production in C. ljungdahlii reactor under electrochemically produced H 2
+Acknowledgment
+ACKNOWLEDGMENT
+ACS Omega
+ACS Paragon Plus Environment
+Activation of the Ag 15 Cu 85 foam: operando XRD and Raman spectroscopic analysis -
+Activity descriptors for CO 2 reduction on Cu NPs
+Activity of CO 2 reduction underneath GDY cover
+ads . CO 2
+Adsorbing vs. non-adsorbing anions
+Adsorption Experiments
+Adsorption of Molecules on Cu Clusters
+Adsorption of reaction intermediates of CO 2 reduction on Cu NPs
+Adsorption sites (a) Cu and Ni (211) surfaces:
+Adsorption Thermodynamic
+Aims of this work
+Air bleed
+Air-free transfer of post-CA samples to ultra-high vacuum (UHV)
+Alkyne hydrogenation
+Analysis and calculations
+Analysis of electrodeposited films
+Analysis of liquid products
+Analysis of liquid samples
+Analysis of mass flows and CO 2 crossover through the membrane
+Analysis of products
+Analysis of the XRD patterns of the
+Analytical methods
+Angewandte Chemie International Edition
+Appendix A Scenario 1
+Application in CO 2 conversion
+ARTICLE
+ARTICLE 2
+ARTICLE IN PRESS
+Articles
+Articles 3. Conclusions
+As shown in
+As-synthesized Materials
+Assessment of Cu 3 (BTC) 2 Regenerability in Sequential Cycles
+ASSOCIATED CONTENT
+ASSOCIATED CONTENT Supporting Information
+Atomic force microscopy
+Author statement
+B. Carbon monoxide adsorption
+B. CO 2 reduction with pulsed bias
+B. Detection of adsorbed molecular species for CO 2 -reducing Cu foams
+B. Product analysis
+Background
+Bacterial cultivation
+Batch experiments with the enriched methanogenic culture
+BB-SFG spectra in the C-H stretching spectral range
+BB-SFG spectra of *CO
+Bering Strait's Ups and Downs Alter Climate
+BET analysis
+BET Surface Analysis:-
+Bicarbonate buffer enhances formate production at low overpotential
+Binding Mode
+Bioelectrochemical cell setup
+Bioelectrochemical experiments
+Bioelectrochemical reactor setups
+Biological Experiments
+C
+C. Adsorbed carbonate
+C. Catalyst characterization
+C2 selectivity studied by density functional theory calculations
+Calcined Materials
+Calculation
+Calculation Methods
+Calculation of density of state (DOS)
+Calculation of efficiencies and production rates
+Calculation of faradaic efficiency
+Calculation of oxygen vacancy formation energy
+Calculation of the current density
+Calculation of the electrochemically active surface area (ECSA) of the working electrode
+Calculations
+Calculations of the production rate and Faradaic efficiency of products
+CANCER CHEMOTHERAPY AT HOME: FEASIBILITY, PATIENT OUTCOMES, AND HEALTHCARE SYSTEM IMPLICATIONS
+CANCER-Clinical Outcomes
+Captions
+Carbon dioxide poisoning
+Carbon monoxide poisoning
+Catalysis Science & Technology Paper
+Catalyst and electrode preparation
+Catalyst characterisation
+Catalyst characterisation studies
+Catalyst Characterization
+Catalyst characterization
+Catalyst characterization 2.3.1. X-ray diffraction
+Catalyst EC protocol
+Catalyst fabrications
+Catalyst layer fabrication
+Catalyst preparation
+Catalyst Preparation
+Catalyst stability
+Catalyst synthesis
+Catalyst synthesis and characterization
+Catalyst synthesis and characterizations
+Catalyst Synthesis and Material Characterization
+Catalysts and electrodes preparation
+Catalysts and gas diffusion electrodes preparation
+Catalysts preparation and characterization
+Catalytic activities of Ag/In/CF for electrochemical reduction of CO 2
+Catalytic activities of the Ag/In samples for electrochemical reduction of CO 2
+Catalytic activity and product selectivity
+Catalytic activity measurements
+Catalytic activity of Cu/CeO x @CNFs for electrochemical reduction of CO 2
+Catalytic electroreduction of CO 2 studied by controlled potential electrolysis
+Catalytic Mechanisms
+Catalytic performance
+Catalytic reactivity under pulsed conditions
+Catalytic Stability
+CCH 3
+Cell microstructure
+Challenges and future prospect
+Characterisation
+Characteristics of the Cu oxide nanomaterials
+Characterization
+Characterization and analysis of products
+Characterization and electrochemical tests
+Characterization and formation mechanisms of Cu (x) Sn (y) -N-CC electrode
+Characterization and instrumentation
+Characterization and instruments
+Characterization details
+Characterization of Cu films
+Characterization of Cu Inverse Opals
+Characterization of Cu-decorated Carbon Aerogels
+Characterization of Cu-In 2 O 3 /C nanocomposite
+Characterization of Cu/CNT catalysts
+Characterization of Cu/CNT catalysts synthesized
+Characterization of CuO/Cu@BC
+Characterization of Electrodes
+Characterization of gas-phase products
+Characterization of materials
+Characterization of pre-catalysts
+Characterization of Samples
+Characterization of Sn-decorated Cu electrodes
+Characterization of synthesized nanoparticles
+Characterization of the as-prepared composites
+Characterization of the Cu cathodic-catalysts and deposited electrodes
+Characterization of the Cu cathodic-catalysts and electrodes
+Characterization of The Cu Powder Catalysts and The Cu Electrodes
+Characterization of the electrodes
+Characterization of the Ti/TiO 2 NT-CuP film
+Characterization of tin foam electrodes
+Characterization Results
+Characterization techniques
+Characterization:
+Characterizations
+Characterizations of the Sn/Nano-Cu electrode
+Charge-discharge analysis
+ChemCatChem
+ChemElectroChem
+Chemical analysis
+Chemical Equations
+Chemicals
+Chemicals and apparatus
+Chemicals and materials
+Chemicals and Materials
+Chemicals and reagents
+Chemistry of Materials
+ChemPhysChem
+ChemSusChem
+Chronoamperometry (CA) and product detection experiments:
+CO 2 activation through reduction to COOH Ã
+CO 2 Bulk Electrolysis Benchmark
+CO 2 Conversion Electrocatalytic Experiments
+CO 2 Electrocatalytic Reduction
+CO 2 electrolysis
+CO 2 electroreduction
+CO 2 Electroreduction
+CO 2 electroreduction (CO2ER)
+CO 2 Electroreduction Catalytic Performance
+CO 2 electroreduction in a flow electrolyzer
+CO 2 electroreduction performance
+CO 2 electroreduction products
+CO 2 electroreduction reactions on Cu-GYs
+CO 2 electroreduction test and calculations
+CO 2 emission reduction and associated benefits (reduction in fossil use due to renewable energy integration into the grid)
+CO 2 hydrogenation tests 3.2.1. Effect of temperature
+CO 2 reduction
+CO 2 Reduction Activity
+CO 2 reduction at FoDH1-modified KB/GCEs
+CO 2 Reduction by Ni-Cu 2 O Thin Films
+CO 2 reduction on nanostructured copper
+CO 2 Reduction performance on Cu 2 O-derived Cu-IOs
+CO 2 RR activity for selective C 2+ production and effective HER suppression
+CO 2 RR and product analysis
+CO 2 RR and product analysis on the Cubased electrodes
+CO 2 RR electrolysis
+CO 2 RR in a H-type cell
+CO 2 RR in the Ag-Cu dual-cathode cell
+CO 2 RR performances of Cu (x) Sn (y) -N-CC electrode
+CO Adsorption Behavior
+CO Bulk Electrolysis at High Current Density
+CO formation is dependent on the internal surface area
+CO g H e COOH
+CO reduction in a phosphate buffer at pH 2
+CO Selectivity
+CO-CO coupling to *COH-CO
+CO2 Conversion Electrocatalytic Experiments
+CO2 electro-conversion
+CO2 electrocatalytic reduction
+CO2 reduction experiments
+CO2 reduction performance
+CO2 Reduction Reaction Pathway
+CO2 RR product analysis
+CO2RR Electrochemical measurements
+COH ads
+COMMUNICATION
+COMMUNICATION 3e
+Communications
+Comparative overview of performances
+Compared with
+Compared with the standard mental
+Comparison of active sites for CO 2 reduction reaction
+Comparison of cell performance
+Comparison of product distribution on Cu and Cu 2 O OE
+Comparison with earlier work
+Comparison with proposed reaction mechanism
+Competition from hydrogen evolution reaction
+Complete reduction of surface oxides
+Complex dependence on catalyst operation history
+Component and Microstructure Characterization
+Composition and particle size dependence of activities
+Compositional Analysis
+Computation
+Computational Analysis
+COMPUTATIONAL AND THEORETICAL DETAILS:
+Computational Details
+Computational details
+COMPUTATIONAL DETAILS
+Computational Details:
+Computational hydrogen electrode model
+Computational investigations of the CO 2 reduction
+Computational method
+Computational Method
+COMPUTATIONAL METHOD
+Computational Methodology
+Computational methods
+COMPUTATIONAL METHODS
+Computational Methods
+Computational models and methods
+Concluding remarks
+Conclusion
+CONCLUSION
+Conclusion and future perspective
+Conclusion and Perspective
+Conclusions
+CONCLUSIONS
+Conclusions and further work
+CONCLUSIONS:
+Conductivity measurement
+Conflict of interest
+Constant potential electrolysis
+Construction of KCu 7 S 4 /CuO interfacial structure
+Contents lists available at ScienceDirect
+Continuous CO 2 electroreduction performance
+Control experiments
+Controllable Synthesis and Characterization of Bi LNSs
+Controlled-potential electrolysis
+Controlled-Potential Electrolysis
+Conversion of CO 2 to hydrocarbon and alcohol products on Cu-based electrocatalysts
+Conversion of E VS. Ag/AgCl to E VS. RHE
+Copper electrochemistry in supercritical CO 2 /MeCN
+Copper oxide-derived Cu
+Copper segregation
+Correlation of ECSA and partial current densities
+CORROSION SCIENCE SECTION
+CORROSION-SEPTEMBER 2018
+COST-EFFECTIVENESS ANALYSIS OF GLYCEMIC CONTROL WITH PIOGLITAZONE HYDROCHLORIDE FOR JAPANESE PATIENTS WITH TYPE II DIABETES
+COST-EFFECTIVENESS OF SWITCHING PATIENTS TO COMBINED GLIBENCLAMIDE AND METFORMIN (GLUCOVANCE) WHEN POORLY CONTROLLED WITH METFORMIN MONOTHERAPY:THE FRENCH PERSPECTIVE
+Credit author statement
+CRediT authorship contribution statement
+Crystal structure and atomic composition of the electrode
+Crystal Structures
+Cu
+Cu monolayer on Au
+Cu submonolayer on Au(1 1 1) in 0.1 M HClO 4
+Cu-a
+Cu-and Cu 2 O-film
+Cu-based nanocrystals
+Cu-metal alloys
+Cu-nanoparticles/nanowires
+CuO
+CuO-Nafion nanowire electrode preparation and characterization
+Current status, remaining challenges and future opportunities
+Current Understanding of the Alloying Effect
+Current-potential curves
+CV analysis
+Cycled Materials
+Cyclic Redox Performance of the Oxygen Carriers
+Cyclic voltammetry
+Cyclic voltammetry (CV)
+Cyclic voltammetry of complex 1 in the presence of CO 2 and proton sources
+Cyclic-voltammetry characterization
+D
+d-Band Center Positions
+D. C= =C and carboxylate vibrations?
+Data accessibility statement
+Data and Code Availability
+Data collection
+Declaration of Competing Interest
+Declaration of interest
+Decoration of TiO 2 nanotubes with Cu(II)porphyrins
+Defect effect for the intrinsic activity of Cu NS electrode
+Density Functional Theory (DFT) Calculations
+Density functional theory calculations
+Density Functional Theory calculations
+Density Functional Theory Modeling
+Deposition time (min)
+Details of Cu Clusters
+Detection of products
+Determination of the local OH -ions activity
+DFT calculations
+DFT Calculations of the Binding Energies for CO 2 Reduction Intermediates As Well As CC Coupling Reactions Involved in the CO 2 RR
+DFT calculations on the role of CTAB involvement at the electrode-electrolyte interface
+DFT computations
+DFT mechanistic pathways
+DFT modeling
+DIABETES-Economic Outcomes
+Differential electrochemical mass spectroscopy measurements
+Direct electrochemical activation of CO 2 by CuL 0 complex
+Disclaimer
+Disclosure statement
+Discussion
+DISCUSSION
+Discussion and conclusions
+Discussion on the CRR activity of Au-i@Cu
+DOI: 10.1002/adma.202004393
+Downloaded by [University of
+E
+E (vs. RHE) = E (vs. Ag
+E. Adsorbed molecules with CH bonds
+eCO 2 RR in H-type cell
+eCO 2 RR in the flow cell
+eCO 2 RR scaling up in the flow cell
+ECR Performance of ZnO Catalysts on the Catalyst
+ECR Performance of ZnO Catalysts on the Catalyst 2.2.1. ZnO Catalysts
+Effect of copper oxide content
+Effect of gas flow rate
+Effect of H 2 /CO 2 ratio
+Effect of potential
+Effect of Potential
+Effect of potential on the product Faradaic efficiency
+Effect of Temperature
+Effect of the anodic polarization on CH 4 and C 2 H 4 formation
+Effect of the presence of water:
+Effect ofIn contents on ECO 2 RR performance and the structure analysis
+Effects of applied potential over the catalysts
+EIS measurement
+Electric field simulation
+Electric field simulation and calculation
+Electrical and physical characterization of the electrochemical device
+Electrical field simulation for Prism-CuO catalyst
+Electro-catalytic CO 2 reduction assay
+Electroactivity of Au x Cu 100-x Alloys
+Electroactivity of Copper Surfaces
+ELECTROANALYSIS
+Electroanalysis
+Electrocatalysis
+Electrocatalyst Characterization
+Electrocatalytic activity and performance of CuO/Cu@BC for ECR-CO 2
+Electrocatalytic activity and selectivity of Cu X O/Cu towards CO 2 reduction
+Electrocatalytic CO 2 Reduction
+Electrocatalytic CO 2 reduction
+Electrocatalytic CO 2 reduction performance
+Electrocatalytic CO2RR activity of CuPolyPc@CNT
+Electrocatalytic experiments for CO2 conversion
+Electrocatalytic kinetics of CO 2 reduction
+Electrocatalytic performance for CO 2 reduction of the catalysts
+Electrocatalytic performance for CO 2 RR in GDE
+Electrocatalytic Performance of CO 2 reduction
+Electrocatalytic Performances in CO 2 RR
+Electrocatalytic Performances in CO2RR
+Electrocatalytic reduction of carbon dioxide
+Electrocatalytic Tests
+Electrochemcial testing
+Electrochemical
+Electrochemical activities
+Electrochemical activities of CO 2 reduction
+Electrochemical analysis
+Electrochemical Analysis of Cu Inverse Opals
+Electrochemical analysis of products
+Electrochemical analysis of spherical-ordered microporous CuO Electrochemical surface area analysis
+Electrochemical analysis of the ORR
+Electrochemical and analytical studies on bulk and surface of Cu 2 O OE
+Electrochemical and chromatographic analysis of gaseous products
+Electrochemical behaviors for CO2 electroreduction
+Electrochemical catalyst
+Electrochemical cell design and setup
+Electrochemical cells
+Electrochemical Cells
+Electrochemical characterisation
+Electrochemical characterisation of the Cu-based HF electrodes in the presence of CO2
+Electrochemical characterization
+Electrochemical characterization 3.2.1 Cyclic voltammetry (CV) study
+Electrochemical characterization and electrocatalytic studies
+Electrochemical Characterization and Product Analysis
+Electrochemical characterization of CuNW surfaces
+Electrochemical characterization of the metal electrodes
+Electrochemical characterization of the prepared electrode
+Electrochemical characterization of tubular hollow fibre electrodes
+Electrochemical Characterization on xZnO@yCu 2 O Catalysts
+Electrochemical Characterization on xZnO@yCu2O Catalysts
+Electrochemical characterizations
+Electrochemical characterizations and product analyses of the prepared electrodes
+Electrochemical characterizations and product analysis
+Electrochemical CO 2 Reduction
+Electrochemical CO 2 reduction
+Electrochemical CO 2 Reduction Activity
+Electrochemical CO 2 reduction in aqueous phase
+Electrochemical CO 2 reduction measurement
+Electrochemical CO 2 reduction measurements
+Electrochemical CO 2 Reduction on Ni/Cu(111) and Pt/Cu(111) Surfaces
+Electrochemical CO 2 reduction testing
+Electrochemical CO 2 reduction to CO
+Electrochemical CO 2 RR of CuO x with Atomic-Scale Interparticle Spacings
+Electrochemical CO 2 RR of SF-Cu/CA and SF-Cu/CA-1 catalysts
+Electrochemical CO2 reduction experiments
+Electrochemical CO2 Reduction Measurements
+Electrochemical CO2RR measurements
+Electrochemical conditions
+Electrochemical data analysis:
+Electrochemical deposition of Cu nanorods on glassy carbon
+Electrochemical deposition of polyaniline
+Electrochemical experiment
+Electrochemical experiments
+Electrochemical experiments and product quantitation
+Electrochemical fragmentation of nanoparticles
+Electrochemical Impedance Spectroscopy (EIS)
+Electrochemical investigation
+Electrochemical measurement
+Electrochemical Measurement
+Electrochemical Measurement for CO 2 RR and Product Analysis
+Electrochemical Measurements
+Electrochemical measurements
+Electrochemical measurements and product analysis
+Electrochemical measurements and products analysis of the CO 2 RR
+Electrochemical performance
+Electrochemical performance and CO 2 RR catalytic activities
+Electrochemical performance of cell
+Electrochemical performance of the Ag 15 Cu 85 foam catalysts
+Electrochemical performance. Figure
+Electrochemical Properties of Cu@Ag Catalysts
+Electrochemical properties of the as-prepared thin films
+Electrochemical properties of the NPC-Pt electrode in BMIMBF 4
+Electrochemical redox reactions of Cu X O nansphere particles
+Electrochemical reduction of carbon dioxide
+Electrochemical Reduction of Carbon Dioxide at Cu Electrode under Ultrasonic Irradiation
+Electrochemical reduction of CO
+Electrochemical reduction of CO 2
+Electrochemical Reduction of CO 2
+Electrochemical reduction of CO 2 -Selectivity and Mechanism
+Electrochemical reduction of CO 2 and product analysis
+Electrochemical Reduction of CO 2 and Product Analysis
+Electrochemical reduction of CO 2 at pure Pt and NPC-Pt electrodes in BMIMBF 4
+Electrochemical reduction of CO 2 at Sn and SnO 2 gas diffusion electrodes
+Electrochemical Reduction of CO2
+Electrochemical reduction of oxygen
+Electrochemical setup
+Electrochemical Studies
+Electrochemical studies
+Electrochemical studies and product analysis
+Electrochemical studies between different carbon materials supported CuPc
+Electrochemical studies between different CNT supported CuPc
+Electrochemical study
+Electrochemical study for CO2 reduction
+Electrochemical techniques
+Electrochemical testing
+Electrochemical testing 2.4.1. Working electrode preparation
+Electrochemical Tests
+Electrochemical tests
+Electrochemical tests and product analysis on the prepared electrodes
+Electrochemical tests and products analysis
+Electrochemical tests and reduction product analysis
+Electrochemical tests. A custom gastight glass cell with two compartments separated by a
+Electrochemical training of the np-Cu-In
+Electrochemical water splitting studies
+Electrochemically active surface area
+Electrochemically active surface area measurements
+Electrochemistry
+Electrochemistry in the presence of acids
+Electrochemistry of [NiL] and [CuL] under CO 2
+Electrochemistry of copper complexes in acetonitrile
+Electrochemistry of the complexes
+Electrochemistry Test
+Electrode characterization
+Electrode characterization and cell design. Commercially available porous Ag
+Electrode degradation analysis
+Electrode fabrication
+Electrode Preparation
+Electrode preparation
+Electrode Preparation (Electrodeposition of Zn/Cu Electrodes)
+Electrode preparation 2.2.1. Preparation of porous N-doped CC
+Electrodeposition of copper
+Electrodeposition of copper from supercritical CHF 3
+Electrodeposition of Cu and Cu 2 O
+Electrodeposition of Cu on Cu
+Electrodeposition of porous Ag and Cu
+Electrodeposition of porous Cu/Cu
+Electroenzymatic CO 2 reduction on nCuGC
+Electrolysis
+Electrolysis mode
+Electrolysis of CO 2 in ERC
+Electrolyte composition affects the electrode surface structure and composition
+Electrolyte product analysis
+Electrolyte variations alter the current flow during CO2 electroreduction
+Electrolytes
+Electrolytic cell
+Electrolytic performance
+Electron microscopy
+Electron transfer mechanisms
+Electronic structure calculations
+Electronic structure methods
+Electronic Structures
+Electronic Structures Analyses
+Electroreduc on + poly-vbpy
+Electroreduction of CO 2
+Electroreduction of CO 2 -constant potential electrolysis
+Electroreduction of CO 2 to formate
+Electrosynthesis of propylene carbonate on other metals
+Eletroenzymatic CO 2 reduction
+Energy & Environmental Science Paper
+Enhanced CO 2 RR Performance on Bi LNSs: High Selectivity and Mass Activity
+Enhanced CO2 reduction activity over Cu NS electrode
+Entry for the Table of Contents
+Equipment and Test Conditions
+Estimation of electrochemical surface areas (ECSAs)
+Estimation of hydrogen demand in Darnah
+Ethyl cinnamate hydrogenation
+Evaluation of active surface and stability
+Evaluation of CO 2 electroreduction performance
+Evaluation of Electrochemical Properties
+Evaluation of the Cu@Ag Structures
+Evidence for product-specific active sites on oxide-derived Cu catalysts for electrochemical CO 2 reduction
+Evidence for pronounced local alkalization
+Evolution of electrode species during CO 2 RR
+Ex situ characterization and cyclic voltammetry
+Ex situ material characterization
+Ex-situ and operando characterization of the material
+Existence of oxygen in copper-based catalysts
+Experime ntal section
+Experiment
+Experimental
+EXPERIMENTAL
+Experimental 2.1. Chemicals
+EXPERIMENTAL AND COMPUTATIONAL
+Experimental and Results
+Experimental and Theoretical Section
+Experimental and theoretical study for catalytic mechanism
+Experimental details
+Experimental Details
+Experimental Fabrication of hierarchical np-Cu and np-Cu@VO 2
+Experimental Materials
+Experimental materials and methods
+Experimental Materials and Methods
+Experimental method
+Experimental Method: 3D Tomo-STEM Method
+Experimental Method: Characterization of the Electrochemical CO 2 RR
+Experimental Method: Material Characterization
+Experimental Method: Materials
+Experimental Method: Preparation of Copper Oxide Nanoparticles with Controlled Interparticle Spaces
+Experimental Method: Product Analysis
+EXPERIMENTAL METHODOLOGY
+Experimental methods
+Experimental Methods
+EXPERIMENTAL METHODS
+Experimental part
+Experimental procedure
+EXPERIMENTAL PROCEDURES
+Experimental procedures
+Experimental Procedures
+Experimental procedures 2.3.1. Synthesis of Cu/CNT catalyst using supercritical CO 2
+Experimental Section
+Experimental section
+EXPERIMENTAL SECTION
+Experimental Section 1. Electrode preparation
+Experimental section and characterizations
+EXPERIMENTAL SECTION Cu Dimer Distorted HKUST-1 Fabrication
+Experimental Section Materials
+Experimental Section Preparation of Catalyst and Electrode
+Experimental Section Preparation of MOPM-GDEs
+Experimental Section Synthesis
+Experimental set-up
+Experimental setup 2.1.1. Synthesis of Cu/CNT catalyst using supercritical CO 2
+EXPERIMENTAL:
+Experiments
+Exploring CO adsorption energies on catalyst surfaces
+Export crude oil instead of curtailing production
+F. Time-dependence of Raman spectra
+Fabrication and Characterization of Microstructured Electrodes
+Fabrication and characterization of the Ag/In catalysts
+Fabrication and characterization of the Ag/In/CF catalyst
+Fabrication of Cu 3 Sn@Cu-SnO 2 and Cu 3 Sn/CF
+Fabrication of Cu nanocones on copper foil (Cu nanocones)
+Fabrication of Cu/Sn electrode
+Fabrication of NPs-modied carbon electrodes
+Fabrication of porous Cu-Sn alloy electrodes
+Fabrication of powder-pressed cathode
+Fabrication of the Cu inverse opal structures
+Fabrication of tubular hollow fibre electrodes
+Factors impacting CO 2 reduction path selectivity
+Faradaic efficiencies for different applied potentials and electrodeposition time
+Faradaic efficiencies of the major gaseous products
+Fig
+FIG. 2. Intensity of the SERS background (averaged values of region 1)
+Figure 2. XRD pattern of SC0, SC5, SC10, SC15
+Figure 2C
+Figure 3C
+Figure 4
+Figure 7a
+Figure captions
+Figure Captions
+Figure. 2
+figures/Figure1_powder.png
+figures/Figure2_fibers.png
+Film thickness
+Finite size effects of Cu NPs
+Flexible hydrogen production based on surplus energy availability
+Flow measurement and product analysis
+Follow-up and clinical outcomes
+Follow-up clinical outcomes
+Formation of Cu@Ag Nanoparticles
+Formation Rates [µmol h
+Free energy calculations
+Free energy profiles for the reduction of CO 2 to H 2 , CO, HCOOH and CH 4 on Cu NPs
+From Science's Online Daily News Site
+FTIR and HPLC characterization of intermediates and products
+Fuel Cell mode
+FULL PAPER
+Full Paper
+FULL PAPER FULL PAPER
+Full Papers
+Further requirements for practical application
+g-C 3 N 4 based nanocomposites
+Gas adsorption Apparatus
+Gas Chromatography with Flame Ionization Detector (GC-FID)
+Gas Chromatography with Thermal Conductivity Detector (GC-TCD)
+Gas detection
+General Discussion
+General methods
+Geometric Structures
+Grain Boundaries
+Grain-Boundary-Rich Copper for Efficient Solar-Driven Electrochemical CO 2 Reduction to Ethylene and Ethanol
+GRAPHIC ABSTRACT Introduction
+Graphical abstract
+Group 1: Homogenous Solid Solution
+Group 2: Intermediate Solid Solution
+Group 3: Terminal Solid Solution
+H 2 evolution in carbon felt and stainless steel mesh assembly cathode
+H 2 O electrolysis
+Half-cell analysis
+Halide effect on the overall catalytic activity of Cu
+Halide effect on the selectivity of Cu
+HER on Cu Clusters
+Heterostructure Identification
+HFGDE Fabrication
+High performance liquid chromatography and on-line gas chromatography measurements
+High-Pressure Liquid Chromatography (HPLC)
+Highly Enhanced CO2 Reduction Performance of Cu Inverse Opals
+Hydrocarbon formation at pH 1
+Hydrogen evolution reaction (HER)
+Hydrogen evolution reaction (HER) on Cu-GYs
+Hydrogen evolving cathode limits biofilm formation
+Hydrophobic molecular treatment
+I
+I. INTRODUCTION
+Ideal Adsorption Solution Theory (IAST)
+Identical location (IL)-SEM study -
+Identication of the CO 2 reduction products
+II. COMPUTATIONAL METHODS
+II. EXPERIMENTAL SECTION
+II. METHODS
+II. RESULTS AND DISCUSSION
+III. CONCLUSIONS
+III. RESULTS
+III. RESULTS AND DISCUSSION
+Imaging and Structural Analysis
+IMes
+In situ FTIR under gaseous environment
+In situ measurements
+In Situ Raman Spectroscopic Study
+In situ surface-enhanced infrared absorption spectroscopy and electrochemical measurements
+In-situ
+In-situ ATR-SEIRAS measurements
+In-situ electrochemical Raman measurements
+In-situ measurement of CO2R products
+In-situ Raman spectroscopy
+Influence from persistent Cu 2 O and applied potential on CO 2 RR selectivity
+Influence of air bleed on current distribution
+Influence of carbon dioxide on current distribution
+Influence of carbon monoxide on current distribution
+Influence of current density on CO 2 reduction performance
+Influence of electrolyte, temperature and pressure
+Influence of intermediate adsorption configuration
+Influence of Mass Transport and Electrolyte
+Influence of pressure
+Influence of Roughness on Mass Transfer in N 2 Environments at pH 3
+Influence of Surface Roughness in CO 2 and N 2 Environments at pH 4
+Infrared spectroelectrochemical studies
+Infrared spectroelectrochemistry (IRSEC)
+Initial properties and CO2-electroreduction performance of Cu2O thin films.-Cuprous oxide TFs
+Inorganic Chemistry Frontiers Accepted Manuscript
+Intrinsic activity interpretation of SF-Cu/CA and SF-Cu/CA-1 catalysts
+Introduction
+INTRODUCTION
+INTRODUCTION 1
+InxCuy NPs electrocatalyst characterization
+Ionics
+IR frequencies by DFT
+IS THERE DIFFERENCE BETWEEN GEMCITABINE BASED NSCLC TREATMENT AND OTHER PLATINUM BASED COMBINATIONS FOR RESPONSE RATES AND TOXICITY?
+istry, CO reduction
+IV. CONCLUSION
+IV. DISCUSSION
+IV. SUMMARY AND CONCLUSIONS
+J o u r n a l P r e -p r o o f
+Journal of the American Chemical Society
+July, 2018
+KEYWORDS CO2 reduction reaction; Cu alloy; methane; DFT; faraday efficiency;
+Kinetic Study
+Laser and SFG setup
+Liquid detection
+List of
+Loading of the catalyst on the electrode
+Long-term electrolysis
+Long-term stability of MOPM-GDEs
+Loss of activity
+LSV curve analysis
+M A N U S C R I P T A C C E P T E D
+M A N U S C R I P T A C C E P T E D ACCEPTED MANUSCRIPT
+M A N U S C R I P T A C C E P T E D ACCEPTED MANUSCRIPT 7
+M NaTfO in MeCN 528
+Magnetic properties analysis
+Major bulk pH contribution to product selectivity on Cu 2 O OE
+Mapping Selectivity versus Chemical Environment Descriptors
+Mass Transfer Measurement for Smooth Surfaces in N 2 Environments-Validation of the Eisenberg, et al., Correlation
+Material
+Material and chemicals
+Material and Method
+Material and methods
+Material characteristics
+Material Characterization
+Material characterization
+Material characterization and electrochemical measurements
+Material characterizations
+Material Characterizations
+Material characterizations and analysis
+Material Database as a Starting Point for Alloy Catalyst Design
+Material synthesis
+Material synthesis 2.2.1. Fabrication of KCu 7 S 4 microrods
+Material synthesis and CO2RR performance
+Materials
+Materials & Methods
+Materials and chemicals
+Materials and Instruments
+Materials and Method
+Materials and Methods
+Materials and methods
+MATERIALS AND METHODS
+Materials and Sample Preparation
+Materials Availability
+Materials Characterisation
+Materials Characterization
+Materials characterization
+Materials characterizations
+Materials preparation
+Materials synthesis
+Measurement of electrochemical performance of supercapacitor:-
+Measurement of Limiting Currents and Mass Transfer
+Measurement of reduction products
+Mechanism
+Mechanism analysis
+Mechanism analysis of alloy electrode for CO 2 electroreduction
+Mechanism B
+Mechanism for CO2 Reduction
+Mechanism for the enhanced hydrocarbon formation in the dualcathode cell
+Mechanism of CO 2 Reduction by Single Metal Electrodes
+Mechanism of CO2 Reduction on Cu Clusters
+Mechanism of methane formation on Cu(111) without/with H 2 O
+Mechanism of methanol formation on
+Mechanisms
+Mechanistic Conclusions: Acetate and Ketene
+Mechanistic insights
+Mechanistic Relevance of Selectivity Maps
+Metal-Metal Oxide Interface
+Methane
+Methane formation is independent of internal surface area
+Methodology
+Methods
+METHODS
+Methods and models
+Methods of characterization
+Microbial growth components in phosphate buffer improve catalytic activity of CuOx
+Microfabrication and geometry of the structured electrodes
+Microkinetic Modeling (MK)
+Microkinetics simulations
+Microstructure of pyrolyzed samples
+Microstructuring, Characterization, and Modeling
+Minimization of charge losses and unwanted side reactions.-
+Minor local pH contribution to product selectivity on Cu 2 O OE
+Mixed oxide catalysts
+Model Reagent Screening
+Modeling Surface Atomic Coordination of Spherical Cu NPs
+Modeling the Local Chemical Environment under Operating Conditions on Microstructured Electrodes
+Models
+MODELS AND COMPUTATIONAL METHODS
+Models and Methods
+Modification of a Cu-mesh electrode by copper(I) halides
+MOF Synthesis
+Morphological and structural analysis of SOMa-CuO
+Morphological and structural analysis of SOMa-CuO SEM and TEM analysis
+Morphological and structural characterization
+Morphological and structural characterization of CuO/Cu 4:3 @BC
+Morphological Investigation
+Morphological investigation of the Au-Cu bimetallic thin films deposited on Ti substrates
+Morphology and composition of Cu X O nanosphere particles
+Morphology and structure
+Morphology and structure of prepared catalysts
+Morphology of Nanostructured Electrodes Characterization
+Morphology studies of the catalyst in presence of halides
+Morphologyversushalide effects
+Mott-Schottky analysis
+MSAD
+NADH regeneration
+NADH regeneration on CuGC using an electron mediator
+NADH regeneration on the CuGC electrode
+Nanoparticle Models
+Nanoporous Copper (Cu Np)
+Nanoscale Paper
+Nanostructured Composites Characterization
+Nature Catalysis
+New mechanistic insights on the Cu electrodes
+Nitrogen Isotherm Analysis
+NMR Spectroscopy
+No HCO 3 -but history-dependent CO 3 2-adsorption
+NOMENCLATURE
+Non-Contact Profilometry Results
+Notes
+Numerical simulation
+OD-Cu
+Online content
+Operando
+Operando ATR-SEIRAS measurement
+Operando Diagnosis of Active Sites
+Operando Quick X-ray absorption spectroscopy (Quick-XAS) -
+Operando X-ray Diffraction (XRD) -
+Operando X-ray Diffraction (XRD) -Operando
+Operando XAS experiment
+Operating conditions and procedure
+Optical properties
+ORCID Notes
+Origin of remarkable size effects of CO 2 reduction on Cu NPs
+Other Structural Effects
+Overview of SCC of Middle East and North African countries
+Oxide content of Cu foams
+Oxide derived Cu
+p-NG/cu mass ratio and NP size effects
+Page 7 of 29 ACS Paragon Plus Environment
+Paper
+Path I through a CHO Ã intermediate
+Path II through a COH Ã intermediate
+Pathway for CO 2 reduction to C 2 products
+Pathway for CO 2 reduction to C 3 products
+Patients' baseline characteristics
+PCN20
+PCN21
+PDB1
+PDB2
+Percutaneous coronary intervention and medications
+Performance evaluation of ECR
+Performance evaluation of Zn-air battery
+Performance for the Electroreduction of CO 2
+Performance tests:
+Persistent presence of Cu 2 O in the ODCu electrode
+Phase Segregation
+Physical and chemical characterization
+Physical and chemical characterizations
+Physical and chemical characterizations of the as-prepared catalysts
+Physical characterization
+Physical Characterization
+Physical characterization of cell
+Physical characterizations and reduction product analysis
+Physical measurements
+Physical properties
+Physical Properties
+Physical/chemical characterizations
+Physico-chemical characterisation of the Cu-based HF electrodes
+Physico-chemical characterization
+Physico-chemical characterization of nanostructured Cu catalysts
+Physicochemical and electrochemical characterization
+Physicochemical characterization
+Plausible mechanism of dendrite formation
+Please do not adjust margins
+Polycrystalline Cu electrode
+Pore-size-dependent structural features of Cu-GYs
+Porous electrode preparation
+Possible Mechanism in CO 2 electrochemical reduction
+Possible reduction mechanisms
+Post electrolysis XPS inspection -
+Post-electrolysis analysis
+Post-electrolysis and operando characterization of the material
+Potential dependence of CO 2 electroreduction on Cu 2 O(100)
+Potential economic benefits of previous scenarios through CO 2 reduction
+Potential-dependent activation barriers
+Potential-dependent reaction barriers
+Potential-dependent reaction free energies
+Potential-dependent reaction free energies and activation barriers
+Potential-dependent SERS background signal
+Potential-dependent tests on the Cu NFs
+Powder Diffractometry (XRD)
+Powder X-ray diffraction
+Precursor
+Precursor solution preparation and catalyst co-electrodeposition
+Preliminary investigations of the electrochemical activity of the hydrogenophilic methanogenic culture: CV tests and Tafel plots
+Preparation and characterization of Cu oxide NWs and NNs
+Preparation and characterization of CuSn NPs/C-A, CuSn
+Preparation and Characterization of HFGDEs
+Preparation and characterization of HKUST-1/CAU-17 blends
+Preparation and characterization of Pb electrodeposited Cu foil
+Preparation and characterization of the Cu foam catalysts
+Preparation and characterization of the NPC-Pt electrode
+Preparation and integration of the npAu leaf catalyst
+Preparation and morphology characterization of the alloy electrode
+Preparation of Ag-Cu catalysts
+Preparation of and CO 2 RR with single Ag and Cu cathode
+Preparation of as-prepared Cu electrodes
+Preparation of Au-Cu bimetallic thin films by magnetron sputtering
+Preparation of blue material
+Preparation of carbon-supported Cu nanoparticles
+Preparation of catalyst
+Preparation of catalyst and working electrode
+Preparation of catalysts
+Preparation of Catalysts
+Preparation of Catalytic Electrodes
+Preparation of chitosan coated copper-oxides nano particles by hydrothermal method
+Preparation of control CS solution
+Preparation of control CuO/Cu 2 O (without CS)
+Preparation of Cu electrodes
+Preparation of Cu nanorods on GC
+Preparation of Cu Phthalocyanine on CNT
+Preparation of Cu(OH) 2
+Preparation of CuNW catalysts
+Preparation of CuWO 4 Nanomaterial
+Preparation of cyclic voltammetry (CV)-treated Cu electrodes
+Preparation of electrodeposited Cu on Au electrode
+Preparation of electrodes
+Preparation of FoDH1-modified electrodes
+Preparation of FoDH1/PQ co-immobilized KB/GCEs
+Preparation of Gas Diffusion Electrode
+Preparation of gas diffusion electrodes
+Preparation of gas diffusion layer
+Preparation of MEA and ERC operation
+Preparation of MOF based-GDEs
+Preparation of nanostructured Cu catalysts
+Preparation of plated Cu electrodes
+Preparation of SBA-15
+Preparation of Sn/f-Cu electrode
+Preparation of SOMa-CuO on a copper foam
+Preparation of strontium-doped lanthanum cuprate perovskite
+Preparation of the carbon-supported ordered intermetallic Cu 6 Sn 5 core-SnO 2 NPs shell NPs
+Preparation of the Cu carbon supported cathodic catalysts
+Preparation of the CuO NFs electrode
+Preparation of the electrodes
+Preparation of the electrodes and Membrane Electrode Assembly (MEA)
+Preparation of the electrolyte
+Preparation of the nanocomposites
+Preparation of the SOMa-CuO nanocatalyst
+Preparation of the working electrode
+Preparation of the ZnO@Cu 2 O Catalyst
+Preparation of VP and FoDH1/VP co-immobilized KB/GCEs
+Preparation of Working Electrode
+Preparative electrolysis
+Present and future values of SCC
+Pretreatment
+Pretreatment by electroreduction
+Principle of SFG
+Probing Morphology of CuO x with Interparticle Spacings by the 3D Tomo-STEM Analysis
+Probing Solid-State Diffusion and Phase Interaction in Model Films
+Procedure of electrochemical reaction for CO2 reduction
+Product analyses
+Product analysis
+Product Analysis
+Product analysis and calculations
+Product Distribution
+Product identification
+Product identication
+Product quantification
+Products analysis
+Products from CO 2 electroreduction
+Products vs. potential
+Proposed CO 2 reduction mechanisms
+Proposed mechanism of eCO 2 RR on Ag-S-C 3 N 4 /CNT nanocomposites
+Proposed SERS normalization protocol
+Pulsed electroreduction of CO 2 using copper oxide electrode
+Pure culture H-type cell
+PV cell characterization
+Quantification of CO2RR products
+Quantitative analysis of gaseous and liquid products
+Quasi in situ X-ray photoelectron spectroscopy
+Quasi in situ X-ray Photoelectron Spectroscopy (XPS)
+Raman analysis
+Raman Analysis:
+Raman spectroscopy
+Reaction mechanism
+Reaction network of CO 2 reduction on Cu n NPs
+Reaction Pathway Analyses
+Reaction pathways and intermediates
+Reaction pathways for the CH 4 and C 2 H 4 formations
+Reaction studies
+Reactivity and Role of 2e -Carboxylate Species
+Reactivity of Alcohols and Ethers
+Reactivity of Alkenes
+Reactivity of Alkynes
+Reactivity of C=O Double Bonds
+Reactivity of CO 2 and HCO 3 -
+Reactivity of Higher Carboxylates
+Reactor construction
+Reagents and materials
+Reagents{
+Reduction of CO 2 on a copper(I) halide-modified Cu-mesh electrode
+Reduction of CO 2 on a pure Cu-mesh electrode in KBr and KI solutions
+Reduction of COOH Ã to CO Ã
+Reduction of dissolved CO 2 by photoelectrocatalysis
+Release of OH -at the cathode
+Renewable energy integration scenario for Libya
+Reported Cu Binary Alloys for CO 2 Reduction
+Representative Model of Group 1: The Cu-Au-O System
+Representative Model of Group 2: The Cu-Zn-O System
+Representative Model of Group 3: The Cu-Ag-O System
+Representative Model of Group 4: The Cu-In-O System
+RESEARCH ARTICLE
+Research technique and tools
+Resistivity and contact angle
+Result and discussion
+Result and Discussion
+Results
+RESULTS
+results
+Results & Discussion
+RESULTS & DISCUSSIONS
+RESULTS AND
+Results and Discussion
+RESULTS AND DISCUSSION
+Results and discussion
+RESULTS AND DISCUSSION:
+Results and discussions
+Results and Discussions
+RESULTS AND DISCUSSIONS
+Reusability study
+Revealing Selectivity Patterns by Varying Applied Potential and Electrode Geometry
+Reversibility of C02 reduction on Cu alloy catalysts.-
+Review
+Rh(III) (mM)
+Role of *CO coverage
+Role of KHCO 3 electrolyte
+Role of Roughening Patterns on Mass Transfer in Rotating Cylinder Electrode Geometries
+Role of Surface Roughness on Mass Transfer for the Rotating Cylinder Electrode Geometry
+Roles of the amorphous carbon on the Cu NF surface
+Roles of the catalyst supports
+S14)
+S15
+S6)
+Sample
+Sample preparation
+Sample Type Rate of Ag Injection [mg h
+Scaling Relationship of Intermediate Binding Energies
+Scanning electron microscopy (SEM)
+Scanning Electron Microscopy (SEM)
+Scanning electron microscopy (SEM) analyses
+Scenario 15
+Scenario 2
+Scenarios 19, 20, 21 and 22
+Scenarios 23, 24, 25 and 26
+Scenarios 3, 4 and 5:
+Scenarios 6, 7, 8 and 9
+Scheme 1
+Scheme 1: Synthesis of CuPolyPc@CNT
+Scheme 2. Schematic Representation of the 13 C-C Coupling Reactions Considered in This Work
+ScienceNOW.org
+Semiconductors characterization
+SERS activity
+Set I -optimizing the additive concentration
+Set II-optimizing the applied voltage
+Set III-optimizing the reaction temperature
+Set-IV: optimizing the reaction time for the evolution of dendrites
+Setup for mixed culture
+Setup for pure culture
+SFC-OLEMS and electrochemical methods
+Side Reaction
+Significance
+Sn Electrodeposition on Cu HFGDE
+Social Carbon Cost (SCC) estimation methods
+Solution Water content (ppm)
+Solvothermal synthesis of Cu 2 Se
+Solvothermally-prepared Cu-S catalysts
+Source microbial culture
+Spatial-connement facilitated *COH-CO formation
+Species
+Spectral Studies
+Spectroelectrochemical measurements
+Spectroscopic Characterization
+Spinning of green fibres and thermal post-treatment
+Stability
+Stability analysis
+Stability improvement strategy
+Stability of Cu X O/Cu catalyst in CO 2 electroreduction
+Stability of Cu x O/Cu for CO 2 reduction
+Stability of porous electrodes for CO 2 reduction
+Stability of the annealed Ag 15 Cu 85 foam catalyst
+Stability of the CuÀ CTAB electrode during ERC reaction
+Stability of the electrodes
+Stability of the Sn/Nano-Cu electrode
+Stability tests
+Stability tests on the Cu NF
+Statistical analysis
+Steady-state voltammetry studies with [NiL]
+STEM-EDS element mappings also confirm that the
+Step
+Strain Relaxation in Multilayer Cu Islands on Au(111)
+Strengthening of CO binding
+Structural and chemical characterization
+Structural and composition analysis
+Structural and Morphological Characterization of the Oxygen Carriers
+Structural characterisation
+Structural characterization
+Structural Characterization
+Structural characterization of the Au-Cu binary catalytic films
+Structural Characterizations
+Structural characterizations
+Structural, morphological and electrochemical characterization of Cu-based electrodes
+Structure and Bader charge analysis of [Cu 25 H 22 (PH 3 ) 12 ]Cl nanocluster
+Structure and composition of the catalysts
+Structure and morphology characteristics
+Structure and morphology of Cu 2 Se
+Structure Changes of Cu Deposits upon CO 2 Electroreduction
+Structures and Stability of Cu 2 @C 2 N
+Study limitations
+Study of the activity of 1 and 2 in the Electrocatalytic CO 2 reduction
+Study on the improvement mechanism of catalytic activity and selectivity toward HCOOH on Cu x O electrode
+Study population
+Summary
+Summary and conclusions
+SUPPLEMENTARY MATERIAL
+Supplementary Materials:
+Supporting Information
+Supporting Information Placeholder
+Supporting Information Summary
+Supporting Information:
+Surface analysis by Raman spectroscopy
+Surface characterization
+Surface characterization of the GDEs
+Surface defects versus Cu(i)
+Surface roughness determination
+Surface roughness factor
+Surface Strain
+Surface Structures and Open Facets
+Surface topography
+Synergistic effect of Cu-CeO x on CO 2 RR
+Syngas Generation from Solar Energy
+Synthesis
+Synthesis 2.2.1. Synthesis of Cu-doped ZIF-8 catalyst
+Synthesis and activation of the Ag 15 Cu 85 foam catalyst
+Synthesis and Characterization
+Synthesis and characterization
+Synthesis and characterization of [(bdt)Mo VI (O)S 2 Cu I CN] 2À , (1)
+Synthesis and characterization of catalyst
+Synthesis and characterization of CeCu(OH) 2 @ZIF-8-10%-T electrocatalyst
+Synthesis and Characterization of Copper Deposits on Pt(hkl)
+Synthesis and characterization of Cu
+Synthesis and characterization of Cu/CeO x -CNFs catalysts
+Synthesis and Characterization of CuO x with Interparticle Spacings (d s )
+Synthesis and Characterization of CuSAs/TCNFs
+Synthesis and characterization of dendritic Cu/Cu 2 O NPs
+Synthesis and characterization of SF-Cu/CA and SF-Cu/CA-1 catalysts
+Synthesis and characterization of the Cu-N-C single-site material
+Synthesis and characterization of the CuPolyPc@CNT
+Synthesis and characterization of the Ni-N 4 /C-NH 2 catalysts
+Synthesis and Structural Characterization of Cu NP Catalysts
+Synthesis and structural characterization of SACs
+Synthesis and structural characterization of the electrodes
+Synthesis gas formation
+Synthesis of
+Synthesis of as-prepared hierarchical CuO inverse opal
+Synthesis of bimetallic catalyst
+Synthesis of carbon nitride
+Synthesis of catalysts
+Synthesis of Co 3 O 4 nanowire arrays
+Synthesis of complexes 1 and 2
+Synthesis of copper-based catalysts
+Synthesis of Cu 2 L 2 Br 4 (2)
+Synthesis of Cu 2 O Catalyst
+Synthesis of Cu 2 O inverse opal thin films
+Synthesis of Cu 2 O spheres
+Synthesis of Cu 2 O/ILGS
+Synthesis of Cu catalysts
+Synthesis of Cu nanocubes
+Synthesis of Cu nanoparticles
+Synthesis of Cu NPs
+Synthesis of Cu NWs supported In catalysts
+Synthesis of Cu(OH) 2
+Synthesis of Cu(OH) 2 @ZIF-8-x
+Synthesis of Cu(OH)2 nanowires
+Synthesis of Cu, Cu@Cu 2 O and CuO x samples
+Synthesis of Cu-based nanoparticles (NPs)
+Synthesis of Cu-In 2 O 3 /Cnanocomposite
+Synthesis of Cu/CA
+Synthesis of Cu/CeO x @CNFs
+Synthesis of Cu/TPA-DMF and Cu/BTC-DMF
+Synthesis of Cu3N nanowires
+Synthesis of Cu3N-derived Cu nanowires
+Synthesis of Cu@nanosilica hybrid
+Synthesis of CuCl 2 @ZIF-8-x
+Synthesis of CuCo 2 O 4 Nanoparticles:
+Synthesis of CuI catalyst
+Synthesis of CuO
+Synthesis of CuO nanoflake arrays
+Synthesis of CuO/Co 3 O 4 composites
+Synthesis of CuO/NG composites
+Synthesis of dendritic Cu NPs
+Synthesis of electrocatalysts
+Synthesis of graphene oxide
+Synthesis of mesoporous CuO catalyst
+Synthesis of N-doped graphene oxide
+Synthesis of Na 4 SnS 4 •14H 2 O
+Synthesis of NG
+Synthesis of pure Cu-MOF
+Synthesis of the catalysts
+Synthesis of the CuPolyPc@CNT and CuPolyPc@CNF
+Synthesis of the Pd/Cu2O-Cu catalyst
+Synthesis of the red ligand (L)
+Synthesis of waste-derived CNT
+Synthesis of ZIF-8
+Synthesis of ZnO Catalysts
+T
+Table 1
+Table 1. SERS signals observed in the SERS spectra during the adsorption of CO 2 or its electrochemical reduction on copper surfaces with corresponding tentative assignment
+Table 3
+TABLE 4 Reference Diffusion Coefficients for Each Species 30
+Table II. Onset potentials (V vs. SHE) for the electroreduction of various products
+Tafel plots
+Tafel slope analysis
+TEM
+TEM and EDAX analysis
+Temperature programmed desorption-mass spectrometry (TPD-MS) analysis
+Ternary Phase Diagram Considering Oxygen as a Third Element
+The Bigger Picture
+The C 2 pathway
+The characterization of Ag, Ag-Cu and Cu electrodes
+The confined catalysis of CO 2 reduction underneath GDY cover
+The effect of electrolyte on CO2 reduction with CuOx electro-catalyst
+The electrocatalytic performance measurements of GDE
+The formate (OCHO) or F-intermediate pathway 2. The carboxyl (COOH) or C-intermediate pathway
+The Investigation of Redox Behavior
+The Journal of Chemical Physics
+The measurement of electrochemical surface area
+The Morphology and Structure of the Catalysts
+The origin of different activities possessed by Cu-GYs
+The possible contribution in boosting the catalytic properties
+The proposed optimized reactor design for the dual-cathode CO 2 RR
+The Relationship of Strain, Intermediate Adsorption, and CO 2 RR Performance
+The Role of Acetaldehyde Acyl-Species and Enolates
+The structure characterization of GDE
+The structures of the catalysts after ECO 2 RR
+The transit of gas-phase molecules through GDY cover
+Theoretical
+Theoretical Calculations
+Theoretical calculations
+Theoretical Method: Density Functional Theory Calculation
+Theoretical Simulation and Analysis
+Theoretical studies
+Theory
+to 13)
+TOC GRAPHICS MAIN TEXT
+Total current densities and *CO current wave
+Total current density
+Total monetary savings
+Transient cyclic votammetric studies with [CuL]
+Transport and Local pH
+TS
+Tuning potentials
+Two distinct CO adsorption modes
+Understanding adsorption site preference and binding energy trends (a) Adsorption site preference:
+Uniqueness of Cu over Conventional catalysts for CO 2 electroreduction
+Unveiling the role of
+Variety of species and adsorption modes of CH x reaction products
+Varying CO 2 /CO ratio
+Varying CO 2 /H 2 ratio
+View Article Online
+Voltammetric behavior of the fabricated electrode
+Voltammetric investigations
+Working electrode preparation
+Working Electrode Preparation
+Working introduction of flow cell
+www.angewandte.org
+X-ray Absorption fine-structure spectroscopy (XAFS)
+X-ray absorption spectroscopy measurements
+X-ray crystallography
+X-ray diffraction (XRD)
+X-ray diffraction (XRD).-Grazing incidence XRD measurements were performed using a
+X-ray diffraction Characterization
+X-ray photoelectron spectroscopy (XPS)
+XPS analysis
+XPS analysis of the fabricated electrode
+XPS Analysis:-
+XRD analysis
+XRD and EDS analysis
+XRD pattern and TEM images of prepared
+xZnO@yCu 2 O Catalyst
+xZnO@yCu 2 O Catalysts
+xZnO@yCu2O Catalyst
+xZnO@yCu2O Catalysts
+Yamanashi University assisted in meeting the publication cost of this article
+Zn-air battery test
+ZnO Catalysts
+ZnO-Cu composite nano preparation
+| Characterization of electrodes
+| CONCLUSIONS
+| Electrochemical measurements
+| EXPERIMENTAL SECTION 2.1 | Materials
+| Fabrication of electrodes
+| INTRODUCTION
+| Product analysis
+| RESULTS AND DISCUSSION
+À
+À1
+•-
+‫ݑܥ‬ ‫ܯ‬
+■ ACKNOWLEDGMENTS
+■ ASSOCIATED CONTENT
+■ AUTHOR INFORMATION
+■ CONCLUSION
+■ CONCLUSIONS
+■ DISCUSSION
+■ EXPERIMENTAL METHODS
+■ EXPERIMENTAL PROCEDURES
+■ EXPERIMENTAL SECTION
+■ INTRODUCTION
+■ MODEL AND COMPUTATIONAL DETAILS
+■ RESULTS
+■ RESULTS AND DISCUSSION
+  
+ ASSOCIATED CONTENT Supporting Information
+ AUTHOR INFORMATION Corresponding Author
+ CONCLUSION
+ INTRODUCTION
+ RESULTS AND DISCUSSION
+𝑅
+𝑝 𝑜 𝑇
